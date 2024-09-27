@@ -1,3 +1,7 @@
+### Signal
+In technical terms, the speech signal is a continuous wave that can be analyzed to extract features like pitch, loudness, or even convert it to text in systems like voice recognition.
+In short, the signal in speech is the sound your voice makes when you talk, carrying your message to others!
+
 ### Diacritics
 Diacritics are small marks or symbols added to letters to change their pronunciation or meaning. We often see the little dots and squiggles in many languages, which are written on top or under the certain letters of the alphabet to describe their pronunciation in terms of vowel sounds, intonations, tones and other linguistic features (Diacritics : Miscellaneous, n.d.).
 
