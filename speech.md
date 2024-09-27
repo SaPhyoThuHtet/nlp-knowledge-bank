@@ -1,3 +1,6 @@
+### Diacritics
+Diacritics are small marks or symbols added to letters to change their pronunciation or meaning. We often see the little dots and squiggles in many languages, which are written on top or under the certain letters of the alphabet to describe their pronunciation in terms of vowel sounds, intonations, tones and other linguistic features (Diacritics : Miscellaneous, n.d.).
+
 ### Grapheme
 
 A grapheme is like a letter or a small piece of a word that helps us write down sounds. For example, the letter "A" is a grapheme because it shows the sound "ah" or "ay" in different words. When we put graphemes together, we make words that we can read and say out loud, like using the letters "c," "a," and "t" to write the word "cat." Each letter in the word helps us know what sounds to make when we read.
