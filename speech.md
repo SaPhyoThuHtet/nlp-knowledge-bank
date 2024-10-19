@@ -79,3 +79,7 @@ Differences from Sentence: An utterance doesn’t have to be a grammatically cor
 Dialogue Systems: In tasks like dialogue modeling, understanding and processing user utterances is crucial for systems like chatbots, voice assistants, and automated customer service applications.
 
 Intent Detection: NLP models often use utterances to determine a user’s intent, which is the goal behind the spoken or written words. For example, from the utterance "I’d like to order pizza," the system identifies that the user's intent is to place an order.
+
+
+Articles:
+Signal Processing Basics: https://towardsdatascience.com/hands-on-signal-processing-with-python-9bda8aad39de
